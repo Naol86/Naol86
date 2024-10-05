@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Naol from Ethiopia<br><br>- 🔭 I’m working as full stack web developer<br>- 📚 I'm currently learning in Adama Science and Technology University<br>- ⚡ In my free time I learn more about tech</p>
+<p align="left">I'm Naol from Ethiopia<br><br>- 🔭 I’m working as full stack web developer<br>- ⚡ In my free time I learn more about tech</p>
 
 ###
 
